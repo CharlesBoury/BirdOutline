@@ -1,5 +1,5 @@
 # BirdOutline
-A little toy project to illustrate an Outline Shader for Unity Sprites
+A little toy project to illustrate an Outline Shader for Unity Sprites ! [Play with it](https://charlesboury.itch.io/bird-outline)!
 
 ![toy](http://charlesboury.fr/lowrezjam/BirdOutline.gif)
 
